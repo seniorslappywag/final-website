@@ -1,0 +1,65 @@
+#main-body {
+    background-color: dimgray;
+}
+
+#joke1-body {
+    background-color: slategray;
+    color: white;
+}
+
+#joke2-body {
+    background-color: darkcyan;
+    color: darkblue;
+}
+
+#joke3-body {
+    background-color: steelblue;
+    color: darkslategrey ;
+}
+
+h1 {
+    text-align: center;
+}
+
+hr {
+    border: 1px solid black;
+}
+
+nav {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    height: 40px;
+}
+
+.joke-a {
+    padding: 5px;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    padding: 5px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 1700px;
+    height: 900px;
+}
